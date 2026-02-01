@@ -50,12 +50,6 @@ Focused on building **scalable, secure, and performance-critical systems**, clea
 
 ---
 
-## Contributions
-
-![GitHub Contributions](https://ghchart.rshah.org/nikatorua)
-
----
-
 ## Selected Highlights
 
 - Built scalable backend services handling **high concurrency and real-time workloads**
